@@ -18,3 +18,5 @@ npm install
 ```bash
 node app
 ```
+
+This is simple calculator app implemented by using Node.
